@@ -4,7 +4,11 @@ I design custom runtimes, low-level compilers, and system automation tools spann
 
 ## 🧠 Core Projects
 * **[Lux](https://github.com)**: A custom, lightweight bytecode VM and language written in Pure C featuring NaN-boxing, a mark-and-sweep GC, native AWS S3 integration, and a custom prefork multi-worker HTTP server. Parity across macOS, Linux, OpenBSD, and Plan 9.
-* **llmresearch**: [Add a brief, punchy one-sentence summary of your architecture/infrastructure focus here].
+* **llmresearch**: [
+    Migrating llmresearch toward a micro-tensor library and exploring a dedicated tensor VM is a massive, high-leverage pivot. 
+    * future projects: micro-tensor
+    * tensor-vm
+    * lux-tensor
 
 ## 🛠️ Systems & Tooling Stack
 * **Languages:** C, Plan 9 C, POSIX Shell, rc, Python
